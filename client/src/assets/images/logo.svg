@@ -1,8 +1,8 @@
 <svg width="260" height="60" viewBox="0 0 260 60" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Icon (Simple checkmark inside a circle) -->
-  <circle cx="30" cy="30" r="25" fill="#2CB1BC"/>
+  <circle cx="28" cy="32" r="20" fill="#2CB1BC"/>
   <path d="M22 30L27 35L38 25" stroke="white" stroke-width="3" fill="none"/>
   
   <!-- Text -->
-  <text x="80" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2CB1BC" letter-spacing="1">TrackMyJobs</text>
+  <text x="50" y="40" font-family="Arial, sans-serif" font-size="24" margin-left="3px"  fill="#2CB1BC" letter-spacing="1">TrackMyJobs</text>
 </svg>
