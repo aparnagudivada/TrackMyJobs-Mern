@@ -13,7 +13,7 @@ const Landing = () => {
             <div className="info">
             <h1>job <span>tracking</span> app</h1>
             <p>
-                This job tracking website helps to track the job applications and to apply for jobs.
+            TrackMyJobs revolutionizes your job search by offering a streamlined platform to track and manage your job applications. Effortlessly organize your progress and stay on top of every opportunity with powerful tracking tools.
             </p>
             <Link to='/register' className='btn register-link'>Register</Link>
             <Link to='/login' className='btn'>Login / Demo User</Link>
