@@ -1,6 +1,6 @@
 ## TrackMyJobs
 
-This project was bootstrapped with Create React App.
+**TrackMyJobs**, a comprehensive full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to manage job applications efficiently, providing a user-friendly interface and robust backend services.
 
 ## Available Scripts
 In the project directory, you can run:
