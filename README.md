@@ -23,4 +23,4 @@ I have deployed this webiste in netlify and Here is the link to website:-
 
 
 
-https://traackmyjobs-mern.onrender.com
+https://trackmyjobs-mern.onrender.com
