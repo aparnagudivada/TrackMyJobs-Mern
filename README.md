@@ -19,7 +19,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-I have deployed this webiste in netlify and Here is the link to website:-
+I have deployed this webiste in render and Here is the link to website:-
 
 
 
